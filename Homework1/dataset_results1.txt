@@ -1,0 +1,7 @@
+Results for data set 1:
+Information Gain Heuristic Accuracy:  95.6666666667
+Variance Impurity Heuristic Accuracy:  95.3333333333
+
+Results for data set 2:
+Information Gain Heuristic Accuracy:  72.3333333333
+Variance Impurity Heuristic Accuracy:  72.5

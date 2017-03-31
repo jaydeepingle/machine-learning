@@ -1,0 +1,2 @@
+#!/bin/bash
+python decision.py $1 $2 $3

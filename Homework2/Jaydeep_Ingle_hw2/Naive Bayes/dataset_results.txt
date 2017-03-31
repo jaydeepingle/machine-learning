@@ -1,0 +1,11 @@
+Accuracy: 93.7%
+Accuracy After filtering stopwords: 91.7%
+
+This part deals with the stopwords filtering
+Accuracy may increase or decrease. It depends on the number of stopwords
+present in the dataset. If there are no stopwords in the dataset the
+accuracy is going to be same. 
+Also if training data contains less stopwords and test contains more or vice
+versa the accuracy will be either greater or less than the accuracy without
+the stopwords
+

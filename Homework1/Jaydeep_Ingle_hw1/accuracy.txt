@@ -1,0 +1,2 @@
+Information Gain Heuristic Accuracy: 93.3333333333
+Variance Impurity Heuristic Accuracy: 93.3333333333
