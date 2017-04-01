@@ -1,4 +1,0 @@
-Information Gain Heuristic Accuracy: 95.6666666667
-Variance Impurity Heuristic Accuracy: 95.3333333333
-Post Pruning Information Gain Heuristic Accuracy: 95.6666666667
-Post Pruning Variance Impurity Heuristic Accuracy: 95.3333333333
